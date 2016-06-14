@@ -1,4 +1,5 @@
 node_modules
 .idea
 app/*.js
-app/*.map.js
+app/*.js.map
+npm-debug.log
