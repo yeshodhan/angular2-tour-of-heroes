@@ -1,2 +1,4 @@
 node_modules
 .idea
+app/*.js
+app/*.map.js
